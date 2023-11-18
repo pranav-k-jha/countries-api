@@ -27,7 +27,7 @@ The challenge is to integrate with the [REST Countries API](https://restcountrie
 
 ## Demo
 
-You can view the live demo [here](https://countries-api-cyan-eight.vercel.app/).
+You can view the live demo [here](https://countries-api-js.vercel.app/).
 
 ## Features
 

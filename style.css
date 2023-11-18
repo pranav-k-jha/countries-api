@@ -3,9 +3,9 @@
 }
 
 body {
-  --background-color: white;
-  --text-color: black;
-  --elements-color: white;
+  --background-color: hsl(0, 0%, 98%);
+  --text-color: hsl(200, 15%, 8%);
+  --elements-color: hsl(0, 0%, 100%);
   margin: 0;
   font-family: Nunito, sans-serif;
   background-color: var(--background-color);
@@ -14,8 +14,9 @@ body {
 
 body.dark {
   --background-color: hsl(207, 26%, 17%); 
-  --text-color: white;
+  --text-color: hsl(0, 0%, 100%);
   --elements-color: hsl(209, 23%, 22%);
+  
 }
 
 main {
