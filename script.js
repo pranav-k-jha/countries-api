@@ -13,7 +13,7 @@ fetch("https://restcountries.com/v3.1/all")
         <div class="card-text">
             <h3 class="card-title">${data.name.common}</h3>
             <p><b>Capital: </b>${data.capital}</p>
-            <p><b>Population: </b>${data.population}</p>
+            <p><b>Population: </b>${data.population.toLocaleString()}</p>
             <p><b>Region: </b>${data.continents}</p>
         </div>`;
 
