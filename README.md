@@ -19,7 +19,7 @@ This project is a solution to the [REST Countries API with Color Theme Switcher 
 
 ### The Challenge
 
-The challenge is to integrate with the REST Countries API to pull country data and display it as per the provided designs. Users should be able to interact with the interface by searching for countries, filtering by region, viewing detailed information, and toggling between light and dark mode.
+The challenge is to integrate with the [REST Countries API](https://restcountries.com/v3.1/all) to pull country data and display it as per the provided designs. Users should be able to interact with the interface by searching for countries, filtering by region, viewing detailed information, and toggling between light and dark mode.
 
 ### Screenshot
 
