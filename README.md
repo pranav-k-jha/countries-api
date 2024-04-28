@@ -27,7 +27,7 @@ The challenge is to integrate with the REST Countries API to pull country data a
 
 ## Demo
 
-You can view the live demo [here](https://your-demo-url.com).
+You can view the live demo [here](https://countries-api-cyan-eight.vercel.app/).
 
 ## Features
 
@@ -44,8 +44,6 @@ You can view the live demo [here](https://your-demo-url.com).
 - HTML5
 - CSS3 (with SCSS)
 - JavaScript (ES6+)
-- React.js
-- React Router
 - Axios (for API requests)
 - LocalStorage (for storing theme preference)
 - Git and GitHub (version control and deployment)
