@@ -9,6 +9,10 @@ body {
 main {
   padding: 24px;
 }
+a {
+  text-decoration: none;
+  color: inherit;
+}
 
 .header-container {
   box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 10%);
@@ -31,18 +35,25 @@ main {
   max-width: 1200px;
   margin-inline: auto;
   margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 64px;
 }
 
 .country-card {
+  display: inline-block;
   width: 250px;
   border-radius: 8px;
   overflow: hidden;
   padding-bottom: 32px;
   box-shadow: 0px 0px 8px 0px rgb(0 0 0 / 20%);
+  transition: all 0.2s ease-in-out;
 }
 
 .country-card:hover {
   box-shadow: 4px 4px 8px 4px rgb(0 0 0 / 20%);
+  transform: scale(1.03);
 }
 
 .country-card img {
