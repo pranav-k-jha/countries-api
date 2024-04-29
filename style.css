@@ -24,7 +24,7 @@ a {
   align-items: center;
   justify-content: space-between;
   max-width: 1200px;
-  margin-inline: 0;
+  margin-inline: auto;
 }
 
 .title {
@@ -37,7 +37,7 @@ a {
   margin-top: 16px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: space-evenly;
   gap: 64px;
 }
 
