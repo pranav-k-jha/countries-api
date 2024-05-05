@@ -29,7 +29,7 @@ function renderCountries(data) {
           <div class="card-text">
               <h3 class="card-title">${country.name.common}</h3>
               <p><b>Population: </b>${country.population.toLocaleString(
-                "en-IN"
+                "en"
               )}</p>
               <p><b>Region: </b>${country.region}</p>
               <p><b>Capital: </b>${country.capital?.[0]}</p>

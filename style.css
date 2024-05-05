@@ -115,7 +115,6 @@ a {
   background-color: var(--elements-color);
   color: var(--text-color);
 }
-
 .search-container input {
   border: none;
   outline: none;
@@ -138,6 +137,9 @@ a {
   border-radius: 4px;
   background-color: var(--elements-color);
   color: var(--text-color);
+}
+.filter-by-region .dropdown-content {
+  background-color: white;
 }
 
 @media(max-width: 768px) {
